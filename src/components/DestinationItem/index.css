@@ -1,0 +1,17 @@
+.container {
+  list-style-type: none;
+  width: 230px;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+.image {
+  height: 230px;
+  width: 230px;
+}
+.name{
+    color: #252627;
+    font-size: 10px;
+    font-family: roboto;
+    font-weight: 200;    
+}
